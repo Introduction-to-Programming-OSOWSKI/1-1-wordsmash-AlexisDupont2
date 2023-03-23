@@ -1,4 +1,5 @@
 #WRITE YOUR CODE HERE
 def  wordSmash (a, b):
-    print(a + b)
-wordSmash("pum", "kin")
+    return (a + b)
+wordSmash("Catat", "Dog")
+wordSmash("Red", "Blue")
